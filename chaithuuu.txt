@@ -2,3 +2,5 @@ this is frst line
 this is scnd line
 this is third line
 jiiii
+ignore 
+hi
